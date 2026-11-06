@@ -10,10 +10,4 @@
         # # # # # 
         . . . . . 
         . . . . .
-        `</field><next><block type="device_show_leds" id="bJ2H4YDIQs$?gQ[K#rx["><field name="LEDS">`
-        . . # . . 
-        . . # . . 
-        . . # . . 
-        . . # . . 
-        . . # . .
-        `</field></block></next></block></next></block></statement></block><block type="device_forever" id="Y]i*zlfU%Pr-K.1ms~[V" x="205" y="0"></block></xml>
+        `</field></block></next></block></statement></block><block type="device_forever" id="Y]i*zlfU%Pr-K.1ms~[V" x="205" y="0"></block></xml>
